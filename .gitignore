@@ -1,0 +1,9 @@
+# Private: real access list and choir code. Copy firestore.rules.example to firestore.rules.
+firestore.rules
+# Private: local name shown in the app. Copy public/site.example.js to public/site.js.
+public/site.js
+# Song backups
+*backup*.json
+.firebase/
+firebase-debug.log*
+.DS_Store
