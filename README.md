@@ -24,3 +24,7 @@ Built with plain JavaScript and Firebase (Hosting, Firestore, Auth). No build st
 ```bash
 firebase deploy --only hosting,firestore:rules
 ```
+
+## Credits
+
+Created by [JustWanderer42](https://github.com/JustWanderer42), built with [Claude](https://claude.com/claude-code).
